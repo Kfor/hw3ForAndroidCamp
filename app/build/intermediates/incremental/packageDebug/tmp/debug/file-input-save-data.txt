@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jul 11 01:35:57 CST 2019
+#Thu Jul 11 19:59:40 CST 2019
 1.base=C\:\\Users\\Kfor\\Desktop\\android\\Chapter3\\Homework\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
